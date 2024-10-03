@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <v-text-field
+      :rules="rules"
+      hide-details="auto"
+      label="email"
+    ></v-text-field>
+  </div>
+</template>
+<script></script>
